@@ -1,0 +1,6 @@
+{
+  "name": "Simple Book Shop",
+  "description": "A clean, responsive online bookstore built with Node.js, Express, HTML, CSS, JavaScript, local JSON storage, cart management, checkout, and Vercel compatibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
