@@ -1,0 +1,35 @@
+[
+  {
+    "orderId": "ORD-1001",
+    "customer": {
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "address": "123 Library Lane",
+      "city": "Booktown",
+      "zip": "90210"
+    },
+    "items": [
+      {
+        "id": "1",
+        "title": "The Midnight Library",
+        "author": "Matt Haig",
+        "price": 16.99,
+        "quantity": 1
+      },
+      {
+        "id": "2",
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "price": 14.99,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 31.98,
+    "discount": 0,
+    "tax": 2.56,
+    "shipping": 0,
+    "total": 34.54,
+    "createdAt": "2026-07-20T10:15:00.000Z",
+    "status": "Completed"
+  }
+]
